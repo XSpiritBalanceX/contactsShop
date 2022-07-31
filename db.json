@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {"nameShop":"ТРЦ Везувий","code":1,"city":"Минск","adress":" ул. Центральная 11", "urlShop":"https://user88506.clients-cdnnow.ru/wp-content/uploads/magazin-kosmetiki-1.jpg", "time":"10:00-22:00", "phone":"+375(29)-111-11-11"},
+      {"nameShop":"ТРЦ Чайтен","code":2,"city":"Гродно","adress":" ул. Гагарина 28", "urlShop":"https://frino.ru/wp-content/uploads/2014/12/Ekostil_magazin-kosmetiki_frino_ru_262_2.jpg", "time":"10:00-22:00", "phone":"+375(29)-111-11-11"},
+      {"nameShop":"ТРЦ Килиманджаро","code":3,"city":"Витебск","adress":"ул. Садовая 15", "urlShop":"https://nsdgroup.com.ua/wp-content/uploads/2021/10/e32a9d675ad5921529ca227517a18ffd-e1633500284884.jpeg", "time":"10:00-22:00", "phone":"+375(29)-111-11-11"},
+      {"nameShop":"ТРЦ Демавенд","code":4,"city":"Могилев","adress":"ул. Лесная 20", "urlShop":"https://apartmentinteriors.ru/wp-content/uploads/proyekt-magazina-kosmetiki-v-ssha-01.jpg", "time":"10:00-22:00", "phone":"+375(29)-111-11-11"},
+      {"nameShop":"ТРЦ Эль-Мисти","code":5,"city":"Брест","adress":"ул. Новая 7", "urlShop":"https://static.tildacdn.com/tild6266-6531-4536-a333-323138386535/balm_06.JPG", "time":"10:00-22:00", "phone":"+375(29)-111-11-11"},
+      {"nameShop":"ТРЦ Сангай","code":6,"city":"Минск","adress":"пр. Героев 3", "urlShop":"https://moneymakerfactory.ru/Pics/verstka/img-721-1538945019.png", "time":"10:00-22:00", "phone":"+375(29)-111-11-11"},
+      {"nameShop":"ТРЦ Камерун","code":7,"city":"Лида","adress":"бул. Дружбы 49", "urlShop":"https://isoft.kz/image/cache/catalog/Store/blog/11oblojki_statey/cosmmag-600x400crop.jpg", "time":"10:00-22:00", "phone":"+375(29)-111-11-11"},
+      {"nameShop":"ТРЦ Этна","code":8,"city":"Барановичи","adress":"пр. Города 1", "urlShop":"https://algoritmgroup.ru/wp-content/uploads/2021/08/shine01.jpg", "time":"10:00-22:00", "phone":"+375(29)-111-11-11"}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
